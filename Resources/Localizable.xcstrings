@@ -1,0 +1,96 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Condition: %@" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Condição %@"
+          }
+        }
+      }
+    },
+    "Description: %@" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descrição: %@"
+          }
+        }
+      }
+    },
+    "Fetch Weather" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pesquisar Clima"
+          }
+        }
+      }
+    },
+    "Fetching location..." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pesquisando localização"
+          }
+        }
+      }
+    },
+    "Humidity: %lld%%" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Umidade: %lld%%"
+          }
+        }
+      }
+    },
+    "Latitude: %lf" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Latitude: %lf"
+          }
+        }
+      }
+    },
+    "Longitude: %lf" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Longitude: %lf"
+          }
+        }
+      }
+    },
+    "Temperature: %.1f°C" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Temperatura: %.1f°C"
+          }
+        }
+      }
+    },
+    "Weather in %@" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clima em %@"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
